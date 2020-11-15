@@ -13,12 +13,12 @@
     to represents the outcomes. The rows are labled based on the dates of each project and the columns are labeled with the outcomes. 
     The chart depicts which months are where the projects are more likely to be successful.
     
-    ![Outcomes Based on Launch Dates](https://github.com/tlin41390/kickstarter-analysis/blob/main/resources/Outcomes_Based_On_Goals.png)
+   ![Outcomes Based on Launch Dates](https://github.com/tlin41390/kickstarter-analysis/blob/main/resources/Outcomes_Based_On_Goals.png)
 ### Analysis of Outcomes Based on Goals
     To analyze the outcomes based on the goals of each theatre porject I created a descriptive statistics of each different goal range
     and their success rates compared to the percentage failed. The rows represent the different goal range.
     
-    ![Outcomes Based on Goals](resources/Outcomes_Based_On_Goals.png)
+   ![Outcomes Based on Goals](https://github.com/tlin41390/kickstarter-analysis/blob/main/resources/Outcomes_Based_On_Goals.png)
 ### Challenges and Difficulties Encountered
     There were seperate different challenges and difficulties I encountered when working with the data. When putting  together 
     the pivot chart I initially did not know that the dates were alread pregrouped by  years so I did not know that the data 
