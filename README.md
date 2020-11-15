@@ -37,16 +37,19 @@
 
 ## Results
    - What are two conclusions you can draw about the Outcomes based on Launch Date?
+   
         The two conclusions I can draw about the outcomes based on the launch date is that there are more successful kickstarter
         plays then failed and canceled. There is a spike of successful plays during the April/May period, and there is a spike of failed
         movies on the September-November range. Moreover, it seems that most kickstarters launch in the beginning of the year over the end
         of the year.
         
    - What can you conclude about the Outcomes based on Goals?
+   
         I can conclude in the outcomes based on goals that generally, outcomes usually succeed if the goal is not too high. Generally, there
         are less kickstarter plays as the goals increase in price.
         
    - What are some limitations of this dataset?
+   
         There are a few limitations to the datset, such as how the projects are funded, and other variables that may cause the kickstarter to
         fail. For example sometimes the kickstarter may be in a site that not alot of people will use to fund the project based on geography.
         We also do not know the general thoughts of each plays as the reason why the play failed could because there may be low opinion about 
@@ -54,5 +57,6 @@
         goal and if it succeeded or not, so the data is fairly vague.
         
    - What are some other possible tables and/or graphs that we could create?
+   
        Other tables that we can create is a table that represents the amount pledged based on the range as well. That way, we can compare how
        much the goal was excdeeded or how short the pledge was from the goal. 
