@@ -12,10 +12,12 @@
     In order to organize the outcomes of theater projects based on the launch date of the file, I created a pivot table and a pivot chart
     to represents the outcomes. The rows are labled based on the dates of each project and the columns are labeled with the outcomes. 
     The chart depicts which months are where the projects are more likely to be successful.
+    
     ![Outcomes Based on Launch Dates](path/to/Theatre_Outcome_by_LaunchDate.png)
 ### Analysis of Outcomes Based on Goals
     To analyze the outcomes based on the goals of each theatre porject I created a descriptive statistics of each different goal range
     and their success rates compared to the percentage failed. The rows represent the different goal range.
+    
     ![Outcomes Based on Goals](path/to/Outcomes_Based_On_Goals.png)
 ### Challenges and Difficulties Encountered
     There were seperate different challenges and difficulties I encountered when working with the data. When putting  together 
